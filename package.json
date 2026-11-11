@@ -1,0 +1,21 @@
+{
+  "name": "mern-social-media-platform",
+  "version": "1.0.0",
+  "description": "Modern MERN Stack Social Media Platform with upgraded UI/UX",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "social-media"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
